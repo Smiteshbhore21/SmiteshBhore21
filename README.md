@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Smitesh Bhore</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">⚠️404 Boring Content Not Found. Now executing: ‘Profile.exe’, where logic meets creativity! 💻✨</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smiteshbhore21&label=Profile%20views&color=0e75b6&style=flat" alt="smiteshbhore21" /> </p>
 
