@@ -6,7 +6,6 @@
     <a href="https://smiteshbhore.netlify.app/" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:inherit;">
       Smitesh Bhore
     </a>
-    <br/>
   </strong>
   👋
 </h1>
