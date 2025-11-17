@@ -93,13 +93,11 @@ Built a linear regression model to predict car prices and deployed it using Flas
 
 ## 🌐 Connect With Me
 
-<p>
-  <a href="https://linkedin.com/in/smitesh-bhore-b46697257" target="_blank">LinkedIn</a><br/>
-  <a href="https://codeforces.com/profile/quantsmith" target="_blank">Codeforces</a><br/>
-  <a href="https://leetcode.com/quantsmith" target="_blank">LeetCode</a><br/>
-  <a href="https://auth.geeksforgeeks.org/user/smiteshbz9nj/profile" target="_blank">GeeksforGeeks</a><br/>
-  📧 Email: <a href="mailto:smiteshbhore23@gmail.com">smiteshbhore23@gmail.com</a>
-</p>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smiteshbhore23@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/smitesh-bhore-b46697257)
+[![Codeforces](https://img.shields.io/badge/Codeforces-%231f8acb.svg?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/quantsmith)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/quantsmith)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%2300A86B.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/smiteshbz9nj/profile)
 
 ---
 
