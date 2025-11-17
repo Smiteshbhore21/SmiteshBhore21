@@ -1,124 +1,126 @@
-<!-- =========================
-   Smitesh Bhore — README.md
-   Professional • Attractive • GitHub-ready
-   ========================= -->
-
-<!-- ====== BANNER ====== -->
+<!-- ===== PROFILE BANNER ===== -->
 <p align="center">
-  <img src="https://dummyimage.com/1200x280/0d1117/ffffff&text=Smitesh+Bhore+%7C+Frontend+Developer" alt="Smitesh Bhore — Frontend Developer" style="max-width:100%;border-radius:8px;" />
+  <img src="https://dummyimage.com/1200x250/0d1117/ffffff&text=Smitesh+Bhore+%7C+Frontend+Developer" alt="banner"/>
 </p>
 
-# Hi — I’m **Smitesh Bhore** 👋  
-**Frontend Developer · Flutter & React · India**
+<h1 align="center">Hi, I'm <strong>Smitesh Bhore</strong> 👋</h1>
+<h3 align="center">Frontend Developer · Flutter | React | UI/UX</h3>
 
-I design and build production-ready, maintainable frontends with a focus on clean architecture, performant UI, and an excellent user experience. I work across Flutter (mobile) and React (web), and I bring a competitive-programming mindset to practical engineering problems.
-
----
-
-## 🔖 Quick Links & Badges
 <p align="center">
-  <img src="https://img.shields.io/badge/Role-Frontend%20Developer-blue" alt="Role"/>
-  <img src="https://img.shields.io/badge/Tech-Flutter%20|%20React-blueviolet" alt="Tech"/>
-  <img src="https://img.shields.io/badge/Focus-UI%2FUX-success" alt="Focus"/>
-  <img src="https://img.shields.io/badge/Email-smiteshbhore23@gmail.com-lightgrey" alt="Email"/>
+  <img src="https://komarev.com/ghpvc/?username=smiteshbhore21&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend-Developer-blue" />
+  <img src="https://img.shields.io/badge/Flutter-Mobile%20Apps-blueviolet" />
+  <img src="https://img.shields.io/badge/React-Web%20Development-61dafb" />
+  <img src="https://img.shields.io/badge/Competitive-Programmer-orange" />
 </p>
 
 ---
 
-## 📌 Professional Summary
-- Experienced at building responsive, maintainable user interfaces and shipping cross-platform features.  
-- Comfortable with component-driven development, state management, and API integrations.  
-- Practice competitive programming; focused on efficient, testable implementations.
+## 🧑‍💻 About Me
+
+I’m a **Frontend Developer** passionate about building responsive, scalable, and user-friendly interfaces.  
+I enjoy crafting clean UI architecture, creating smooth user experiences, and combining design thinking with efficient code.
+
+I work across **Flutter**, **React**, and **modern frontend ecosystems**, while also exploring competitive programming & backend fundamentals.
 
 ---
 
-## 🔭 Current Work
-**Canteen Make** — Frontend contributor (branch: `Smitesh`)  
-Contributing UI improvements and component-driven features on GitLab:  
-https://gitlab.com/nishant_core2web/canteen-mate/-/tree/Smitesh?ref_type=heads
+## 🔭 Currently Working On
+
+### **Canteen Make (GitLab)**
+Contributing to UI development, feature enhancements, and clean component-driven structure.  
+🔗 Branch: `Smitesh`  
+Link: https://gitlab.com/nishant_core2web/canteen-mate/-/tree/Smitesh?ref_type=heads
 
 ---
 
-## 🚀 Pinned Projects (GitHub-style cards)
+## 🛠 Tech Stack
 
-> ⚠️ Replace `REPO-NAME` with the exact repo slug(s) if they differ.  
-> For GitLab-hosted projects (e.g., Canteen Make) the link below points to GitLab.
+### **Languages**
+`Dart` • `JavaScript` • `Python` • `Java` • `C/C++`
 
-<p align="center">
-  <!-- GitHub-stats pin cards (works for public GitHub repos) -->
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=smiteshbhore21&repo=url-shortener-node&theme=default" alt="URL Shortener" style="margin:6px;" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=smiteshbhore21&repo=car-price-prediction&theme=default" alt="Car Price Prediction" style="margin:6px;" />
-  <!-- For GitLab or private repos use a custom card below -->
+### **Frontend & Mobile**
+- Flutter (Provider, Riverpod, Firebase integrations)  
+- React (Hooks, Components, Routing)  
+- HTML5 • CSS3 • Responsive UI
+
+### **Databases**
+- Firebase (Auth, Firestore, Storage)  
+- MySQL • MongoDB • SQLite  
+
+### **Tools & Platforms**
+- Git + GitHub  
+- Figma  
+- Postman  
+- OpenCV, Pandas, scikit-learn  
+- Photoshop
+
+---
+
+## 📌 Featured Projects
+
+### ⭐ **Canteen Make**
+Frontend + UI contributor  
+- Improving UI flow and user experience  
+- Working on reusable widgets/components  
+- Integrating clean layouts and API interactions
+
+🔗 Branch: `Smitesh`  
+🔗 Repo: *Private on GitLab*
+
+---
+
+### ⭐ **URL Shortener (Node + Express)**  
+A backend API that generates short URLs with error handling and analytics-ready design.  
+**Tech:** Node, Express, MongoDB
+
+---
+
+### ⭐ **Car Price Prediction (ML + Flask API)**  
+Built a linear regression model to predict car prices and deployed it using Flask.  
+**Tech:** Python, Pandas, scikit-learn, Flask API
+
+---
+
+*(Want me to add GitHub cards for these projects?)*
+
+---
+
+## 🌐 Connect With Me
+
+<p>
+  <a href="https://smiteshbhore.netlify.app/" target="_blank"><strong>Portfolio Website</strong></a><br/>
+  <a href="https://linkedin.com/in/smitesh-bhore-b46697257" target="_blank">LinkedIn</a><br/>
+  <a href="https://codeforces.com/profile/quantsmith" target="_blank">Codeforces</a><br/>
+  <a href="https://leetcode.com/quantsmith" target="_blank">LeetCode</a><br/>
+  <a href="https://auth.geeksforgeeks.org/user/smiteshbz9nj/profile" target="_blank">GeeksforGeeks</a><br/>
+  📧 Email: <a href="mailto:smiteshbhore23@gmail.com">smiteshbhore23@gmail.com</a>
 </p>
 
-### Project: **Canteen Make** (GitLab)
-- Role: Frontend contributor — UI refinements, reusable widgets, layout consistency.  
-- Branch: `Smitesh` — https://gitlab.com/nishant_core2web/canteen-mate/-/tree/Smitesh?ref_type=heads
-
-### Project: **URL Shortener (Node)**  
-- RESTful API for generating short links with analytics-ready design and error handling.  
-- Tech: Node.js, Express, MongoDB — (replace repo slug above to pin).
-
-### Project: **Car Price Prediction (ML + Flask)**  
-- Linear regression model + Flask API for serving predictions; includes preprocessing & model pipeline.  
-- Tech: Python, scikit-learn, Flask — (replace repo slug above to pin).
-
 ---
 
-## 🔍 Contribution Highlights
-- **UI architecture & components** — Converted repetitive UI flows into reusable widgets/components to reduce duplication and improve maintainability.  
-- **Performance improvements** — Optimized image loading and list rendering in Flutter projects, reducing frame drops on mid-range devices.  
-- **Feature delivery** — Implemented end-to-end features: UI → state management → API integration → validation → testing.  
-- **Code quality & reviews** — Regular PR reviews focusing on readability, modularity, and testability (unit + integration where applicable).  
-- **Mentorship & collaboration** — Worked with designers to ensure that UI specs are feasible and accessible; helped onboard new contributors.
-
----
-
-## 📈 Activity & Contribution Graphs
+## 📊 GitHub Stats
 
 <p align="center">
-  <!-- Contribution heatmap (GHChart) -->
-  <img src="https://ghchart.rshah.org/smiteshbhore21" alt="GitHub contribution graph" style="max-width:100%;margin-bottom:10px;"/>
-
-  <!-- Alternate activity graph -->
-  <br/>
-  <img src="https://activity-graph.herokuapp.com/graph?username=smiteshbhore21&area=true&hide_border=true&color=0e75b6" alt="Activity Graph" style="max-width:100%;border-radius:8px;margin-top:10px;"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=smiteshbhore21&show_icons=true&theme=default" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=smiteshbhore21&layout=compact&theme=default" />
 </p>
 
-> Note: These images are generated by community services. If you prefer a different style or want the calendar removed, I can swap them.
+---
+
+## 🚀 Professional Focus
+- Writing clean, reusable, maintainable frontend code  
+- UI/UX-driven development with meaningful interactions  
+- Cross-platform development with Flutter  
+- Component-based web architecture with React  
+- Strong competitive programming mindset  
 
 ---
 
-## 🧰 Tech Stack & Tools
+## 📝 Closing Note
+Always open to collaboration, code reviews, and building meaningful products.  
+If you want this README **with a custom-designed banner**, **animated typing text**, or **project cards**, just tell me!
 
-**Languages:** Dart · JavaScript · Python · Java · C / C++  
-**Frontend / Mobile:** Flutter · React · HTML5 · CSS3 · Responsive Design  
-**Databases / Backend:** Firebase (Auth, Firestore) · MySQL · MongoDB · SQLite  
-**Tools:** Git · Figma · Postman · OpenCV · Pandas · scikit-learn · Photoshop
-
----
-
-## 📬 Contact & Links
-- Portfolio: https://smiteshbhore.netlify.app/  
-- LinkedIn: https://linkedin.com/in/smitesh-bhore-b46697257  
-- Codeforces: https://codeforces.com/profile/quantsmith  
-- LeetCode: https://leetcode.com/quantsmith  
-- GeeksforGeeks: https://auth.geeksforgeeks.org/user/smiteshbz9nj/profile  
-- Email: [smiteshbhore23@gmail.com](mailto:smiteshbhore23@gmail.com)
-
----
-
-## ✅ Next steps (I can do this for you)
-- Replace the pinned repo slugs with exact repo names and I will update the `pin` images so they show live repo cards.  
-- Generate a **custom banner image** (PNG) in your chosen style and replace the placeholder.  
-- Add project-level GitHub cards with live metrics (stars, forks) once repos are public and slugs are confirmed.  
-- Create a short `Projects` subsection with badges (Languages, Stars, Link) for each repo.
-
----
-
-### Final note
-If you want, tell me:
-1. The exact GitHub repo slugs for the projects you want pinned (e.g., `username/repo-name`), or  
-2. Which banner style you prefer (minimal / dark / light / code-themed).
-
-I’ll update the README accordingly (swap placeholders for live cards and generate the banner).
