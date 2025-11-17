@@ -1,15 +1,17 @@
 <!-- ===== PROFILE BANNER ===== -->
-<p align="center">
-  <img
-    src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPScxMjAwJyBoZWlnaHQ9JzI1MCcgdmlld0JveD0nMCAwIDEyMDAgMjUwJz4KICA8cmVjdCB3aWR0aD0nMTAwJScgaGVpZ2h0PScxMDAlJyBmaWxsPScjMGQxMTE3JyByeD0nOCcgcnk9JzgnLz4KICA8c3R5bGU+CiAgICAubmFtZSB7IGZpbGw6ICNmZmZmZmZmOyBmb250LWZhbWlseTogJ1NlZ29lIFVJTCcsIFJvYm90bywgQXJpYWwsIHNhbnMtc2VyaWY7IGZvbnQtc2l6ZToxMDZweDsgZm9udC13ZWlnaHQ6NzAwOyB9CiAgICAudGl0bGUgeyBmaWxsOiAjOWFhNGIyOyBmb250LWZhbWlseTogJ1NlZ29lIFVJTCcsIFJvYm90bywgQXJpYWwsIHNhbnMtc2VyaWY7IGZvbnQtc2l6ZToyNHB4OyB9CiAgPC9zdHlsZT4KICA8dGV4dCB4PSc1MCUnIHk9JzQ1JScgY2xhc3M9J25hbWUnIHRleHQtYW5jaG9yPSdtaWRkbGUnIGRvbWluYW50LWJhc2VsaW5lPSdtaWRkbGUnPlNtaXRlc2ggQmhvcmU8L3RleHQ+CiAgPHRleHQgeD0nNTAlJyB5PSc2NScgY2xhc3M9J3RpdGxlJyB0ZXh0LWFuY2hvcj0nbWlkZGxlJyBkb21pbmFudC1iYXNlbGluZT0nbWlkZGxlJz5Gcm9udGVuZCBEZXZlbG9wZXIgJiBIdWxsIERldmljZSB8IEZsdXR0ZXIgfCBSZWFjdCAnPC90ZXh0Pgo8L3N2Zz4=
-    alt="Smitesh Bhore — Frontend Developer"
-    style="max-width:100%;border-radius:8px;"
-  />
-</p>
 
-
-<h1 align="center">Hi, I'm <strong>Smitesh Bhore</strong> 👋</h1>
+<h1 align="center">
+  Hi, I'm
+  <strong>
+    <a href="https://smiteshbhore.netlify.app/" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:inherit;">
+      Smitesh Bhore
+    </a>
+    <br/>
+  </strong>
+  👋
+</h1>
 <h3 align="center">Frontend Developer · Flutter | React | UI/UX</h3>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=smiteshbhore21&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
@@ -93,7 +95,6 @@ Built a linear regression model to predict car prices and deployed it using Flas
 ## 🌐 Connect With Me
 
 <p>
-  <a href="https://smiteshbhore.netlify.app/" target="_blank"><strong>Portfolio Website</strong></a><br/>
   <a href="https://linkedin.com/in/smitesh-bhore-b46697257" target="_blank">LinkedIn</a><br/>
   <a href="https://codeforces.com/profile/quantsmith" target="_blank">Codeforces</a><br/>
   <a href="https://leetcode.com/quantsmith" target="_blank">LeetCode</a><br/>
