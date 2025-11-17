@@ -1,11 +1,5 @@
 <!-- ===== PROFILE BANNER ===== -->
-<p align="center">
-  <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPScxMjAwJyBoZWlnaHQ9JzI1MCc+CiAgPHJlY3Qgd2lkdGg9JzEwMCUnIGhlaWdodD0nMTAwJScgZmlsbD0nIzBkMTExNycvPgogIDx0ZXh0IHg9JzUwJScgeT0nNTAlJyBkb21pbmFudC1iYXNlbGluZT0nbWlkZGxlJyB0ZXh0LWFuY2hvcj0nbWlkZGxlJyBmaWxsPScjZmZmZmZmJyBmb250LWZhbWlseT0nU2Vnb2UgVUlMLCBSb2JvdG8sIEFyaWFsLCBzYW5zLXNlcmlmJyBmb250LXNpemU9JzQyJz5TbWl0ZXNoIEJob3JlIHwgRnJvbnRlbmQgRGV2ZWxvcGVyPC90ZXh0Pgo8L3N2Zz4="
-    alt="Smitesh Bhore — Frontend Developer"
-    style="max-width:100%;border-radius:8px;"
-  />
-</p>
-
+<p align="center"> <img src="https://dummyimage.com/1200x250/0d1117/ffffff&text=Smitesh+Bhore+%7C+Frontend+Developer" alt="banner"/> </p>
 
 <h1 align="center">Hi, I'm <strong>Smitesh Bhore</strong> 👋</h1>
 <h3 align="center">Frontend Developer · Flutter | React | UI/UX</h3>
