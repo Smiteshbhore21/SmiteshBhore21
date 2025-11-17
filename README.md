@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://smiteshbhore.netlify.app/" target="blank"> Portfolio </a>
+<a href="https://smiteshbhore.netlify.app/" onclick='window.open("http://www.foracure.org.au");return false;'> Portfolio </a>
 <a href="https://linkedin.com/in/smitesh-bhore-b46697257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="smitesh bhore" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/quantsmith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="quantsmith" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/quantsmith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="quantsmith" height="30" width="40" /></a>
