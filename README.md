@@ -36,10 +36,8 @@ I work across **Flutter**, **React**, and **modern frontend ecosystems**, while 
 
 ## 🔭 Currently Working On
 
-### **Canteen Make (GitLab)**
-Contributing to UI development, feature enhancements, and clean component-driven structure.  
-🔗 Branch: `Smitesh`  
-Link: https://gitlab.com/nishant_core2web/canteen-mate/-/tree/Smitesh?ref_type=heads
+### **Sakshama - Women Empowering Platform**
+Contributing to UI development, functionality, and clean component-driven structure.  
 
 ---
 
