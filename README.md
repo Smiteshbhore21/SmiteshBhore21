@@ -102,7 +102,6 @@ Built a linear regression model to predict car prices and deployed it using Flas
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=smiteshbhore21&show_icons=true&theme=default" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=smiteshbhore21&layout=compact&theme=default" />
 </p>
 
