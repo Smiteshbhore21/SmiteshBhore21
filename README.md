@@ -36,8 +36,7 @@ I work across **Flutter**, **React**, and **modern frontend ecosystems**, while 
 <p align="center" style="margin:0;">
   <img 
     src="https://media.tenor.com/XKwzkocGdvYAAAAM/cat-cat-meme.gif"
-    alt="Profile"
-    style="max-width:100%; height:auto; border-radius:12px;"
+    alt="Coding" width="100%"
   />
 </p>
 
