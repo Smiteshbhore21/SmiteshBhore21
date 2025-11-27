@@ -1,18 +1,24 @@
 <!-- ===== PROFILE BANNER ===== -->
-<h1 align="left">
+<h1 align="left" style="margin:0; font-size:32px; font-weight:700; line-height:1.2;">
   Hi, I'm
   <strong>
-    <a href="https://smiteshbhore.netlify.app/" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:inherit;">
+    <a href="https://smiteshbhore.netlify.app/"
+       target="_blank"
+       rel="noopener noreferrer"
+       style="text-decoration:none; color:inherit;">
       Smitesh Bhore
     </a>
   </strong>
   👋
 </h1>
-<table>
-<tr>
-<td width="60%" valign="middle">
 
-<h3 align="center">Frontend Developer · Flutter | React | UI/UX</h3>
+<table width="100%" cellspacing="0" cellpadding="0" style="border-collapse:collapse; margin-top:10px;">
+<tr>
+<td width="60%" valign="middle" style="padding:0; border:none;">
+
+<h3 align="center" style="margin:0; font-size:20px; font-weight:500; color:#444;">
+  Frontend Developer · Flutter | React | UI/UX
+</h3>
 
 ---
 
@@ -23,29 +29,35 @@ I enjoy crafting clean UI architecture, creating smooth user experiences, and co
 
 I work across **Flutter**, **React**, and **modern frontend ecosystems**, while also exploring competitive programming & backend fundamentals.
 
----
-
-### 🔭 Currently Working On
-
-#### **Sakshama - Women Empowering Platform**
-Contributing to UI development, functionality, and clean component-driven structure.  
-
 </td>
-<td width="40%">
 
-<p align="center">
-  <img src="https://smiteshbhore.netlify.app/assets/Me_Emoji-BYFRKJfM.png" alt="Profile Views"/>
+<td width="40%" valign="middle" style="padding:0; border:none;">
+
+<p align="center" style="margin:0;">
+  <img 
+    src="https://media.tenor.com/XKwzkocGdvYAAAAM/cat-cat-meme.gif"
+    alt="Profile"
+    style="max-width:100%; height:auto; border-radius:12px;"
+  />
 </p>
+
 </td>
 </tr>
 </table>
 
-<p align="center">
+<p align="center" style="margin-top:10px;">
   <img src="https://img.shields.io/badge/Frontend-Developer-blue" />
   <img src="https://img.shields.io/badge/Flutter-Mobile%20Apps-blueviolet" />
   <img src="https://img.shields.io/badge/React-Web%20Development-61dafb" />
   <img src="https://img.shields.io/badge/Competitive-Programmer-orange" />
 </p>
+
+---
+
+## 🔭 Currently Working On
+
+### **Sakshama - Women Empowering Platform**
+Contributing to UI development, functionality, and clean component-driven structure.  
 
 ---
 
