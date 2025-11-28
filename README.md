@@ -62,24 +62,12 @@ Contributing to UI development, functionality, and clean component-driven struct
 
 ## 🛠 Tech Stack
 
-### **Languages**
-`Dart` • `JavaScript` • `Python` • `Java` • `C/C++`
-
-### **Frontend & Mobile**
-- Flutter (Provider, GetX, Firebase integrations)  
-- React (Hooks, Components, Routing)  
-- HTML5 • CSS3 • Responsive UI
-
-### **Databases**
-- Firebase (Auth, Firestore, Storage)  
-- MySQL • MongoDB • SQLite  
-
-### **Tools & Platforms**
-- Git + GitHub  
-- Figma  
-- Postman  
-- OpenCV, Pandas, scikit-learn  
-- Photoshop
+| Category | Skills |
+|:-------|:-------|
+| **Languages** | `Dart` • `JavaScript` • `Python` • `Java` • `C/C++` |
+| **Frontend & Mobile** | - Flutter (Provider, GetX, Firebase integrations)<br>- React (Hooks, Components, Routing)<br>- HTML5 • CSS3 • Responsive UI |
+| **Databases** | - Firebase (Auth, Firestore, Storage)<br>- MySQL • MongoDB • SQLite |
+| **Tools & Platforms** | - Git + GitHub<br>- Figma<br>- Postman<br>- OpenCV, Pandas, scikit-learn<br>- Photoshop |
 
 ---
 
@@ -120,9 +108,16 @@ Built a linear regression model to predict car prices and deployed it using Flas
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=smiteshbhore21&layout=compact&theme=default" />
-</p>
+<table width="100%" align="center" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="50%" align="center" valign="middle">
+      <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smiteshbhore21&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top languages"/>
+    </td>
+    <td width="50%" align="center" valign="middle">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Smiteshbhore21&theme=github_dark_dimmed&hide_border=false" alt="Streak stats"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
