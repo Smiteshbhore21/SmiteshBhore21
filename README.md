@@ -53,21 +53,15 @@ I work across **Flutter**, **React**, and **modern frontend ecosystems**, while 
 
 ---
 
-## 🔭 Currently Working On
-
-### **Sakshama - Women Empowering Platform**
-Contributing to UI development, functionality, and clean component-driven structure.  
-
----
-
 ## 🛠 Tech Stack
 
-| Category | Skills |
-|:-------|:-------|
-| **Languages** | `Dart` • `JavaScript` • `Python` • `Java` • `C/C++` |
-| **Frontend & Mobile** | - Flutter (Provider, GetX, Firebase integrations)<br>- React (Hooks, Components, Routing)<br>- HTML5 • CSS3 • Responsive UI |
-| **Databases** | - Firebase (Auth, Firestore, Storage)<br>- MySQL • MongoDB • SQLite |
-| **Tools & Platforms** | - Git + GitHub<br>- Figma<br>- Postman<br>- OpenCV, Pandas, scikit-learn<br>- Photoshop |
+| 🧭 Category | Skills |
+|:---|:---|
+| **Languages** | `Dart` • `C++` • `Java` • `Python` • `JavaScript` |
+| **Frontend** | **Flutter** (Provider, GetX, Firebase) · **React** (Hooks, Material UI) · `HTML5` · `CSS3` |
+| **Backend & Databases** | `Node.js` · `Express` · **Firebase** (Auth, Firestore) · `MongoDB` · `MySQL` · `SQFlite` |
+| **Tools & Platforms** | `Git` & `GitHub` · `Google Cloud` · `Firebase` · `WordPress` · `Postman` |
+| **Machine Learning & Data** | Machine Learning · OpenCV · Pandas · scikit-learn |
 
 ---
 
@@ -121,14 +115,6 @@ Built a linear regression model to predict car prices and deployed it using Flas
 
 ---
 
-## 🚀 Professional Focus
-- Writing clean, reusable, maintainable frontend code  
-- UI/UX-driven development with meaningful interactions  
-- Cross-platform development with Flutter  
-- Component-based web architecture with React  
-- Strong competitive programming mindset  
-
----
-
-## 📝 Closing Note
-Always open to collaboration, code reviews, and building meaningful products.
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=SmiteshBhore21&color=1880b4&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+</div>
