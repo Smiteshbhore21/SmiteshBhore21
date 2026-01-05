@@ -65,31 +65,6 @@ I work across **Flutter**, **React**, and **modern frontend ecosystems**, while 
 
 ---
 
-## 📌 Featured Projects
-
-### ⭐ **Canteen Make**
-Frontend + UI contributor  
-- Improving UI flow and user experience  
-- Working on reusable widgets/components  
-- Integrating clean layouts and API interactions
-
-🔗 Branch: `Smitesh`  
-🔗 Repo: *Private on GitLab*
-
----
-
-### ⭐ **URL Shortener (Node + Express)**  
-A backend API that generates short URLs with error handling and analytics-ready design.  
-**Tech:** Node, Express, MongoDB
-
----
-
-### ⭐ **Car Price Prediction (ML + Flask API)**  
-Built a linear regression model to predict car prices and deployed it using Flask.  
-**Tech:** Python, Pandas, scikit-learn, Flask API
-
----
-
 ## 🌐 Connect With Me
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smiteshbhore23@gmail.com)
