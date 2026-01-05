@@ -115,12 +115,6 @@ Built a linear regression model to predict car prices and deployed it using Flas
 
 ---
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=SmiteshBhore21&color=1880b4&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
-</div>
-
----
-
 ## 🏆 Contribution Highlights
 
 <div align="center">
@@ -132,10 +126,11 @@ Built a linear regression model to predict car prices and deployed it using Flas
 ## 📈 Activity Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Smiteshbhore21&bg_color=0D1117&color=FFFFFF&line=E50914&point=221F1F&area=true&hide_border=true" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Smiteshbhore21&bg_color=0D1117&color=FFFFFF&line=1880b4&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
 </div>
 
+---
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Smiteshbhore21&color=E50914&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=SmiteshBhore21&color=1880b4&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
 </div>
