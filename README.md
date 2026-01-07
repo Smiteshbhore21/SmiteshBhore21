@@ -17,17 +17,18 @@
 <td width="60%" valign="middle" style="padding:0; border:none;">
 
 <h3 align="center" style="margin:0; font-size:20px; font-weight:500; color:#444;">
-  Frontend Developer · Flutter | React | UI/UX
+  Full Stack Developer · Flutter | React | Node.js | ML
 </h3>
 
 ---
 
 ### 🧑‍💻 About Me
 
-I’m a **Frontend Developer** passionate about building responsive, scalable, and user-friendly interfaces.  
-I enjoy crafting clean UI architecture, creating smooth user experiences, and combining design thinking with efficient code.
+I’m a **Full Stack Developer** who enjoys building **end-to-end products** — from clean, responsive UIs to scalable backend systems and intelligent ML-powered features.
 
-I work across **Flutter**, **React**, and **modern frontend ecosystems**, while also exploring competitive programming & backend fundamentals.
+I focus on **frontend excellence**, **robust backend architecture**, and **data-driven problem solving**, blending design thinking with performance-oriented code.
+
+Currently working across **React, Flutter, Node.js, Firebase**, and **Machine Learning**, while sharpening **DSA & system fundamentals**.
 
 </td>
 
@@ -45,10 +46,11 @@ I work across **Flutter**, **React**, and **modern frontend ecosystems**, while 
 </table>
 
 <p align="center" style="margin-top:10px;">
-  <img src="https://img.shields.io/badge/Frontend-Developer-blue" />
+  <img src="https://img.shields.io/badge/FullStack-Developer-blue" />
   <img src="https://img.shields.io/badge/Flutter-Mobile%20Apps-blueviolet" />
   <img src="https://img.shields.io/badge/React-Web%20Development-61dafb" />
-  <img src="https://img.shields.io/badge/Competitive-Programmer-orange" />
+  <img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20Firebase-green" />
+  <img src="https://img.shields.io/badge/ML-Enabled-orange" />
 </p>
 
 ---
