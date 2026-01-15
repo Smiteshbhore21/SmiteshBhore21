@@ -82,21 +82,10 @@ Currently working across **React, Flutter, Node.js, Firebase**, and **Machine Le
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td width="50%" align="center" valign="middle">
-      <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smiteshbhore21&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top languages"/>
-    </td>
-    <td width="50%" align="center" valign="middle">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Smiteshbhore21&theme=github_dark_dimmed&hide_border=false" alt="Streak stats"/>
+      <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Smiteshbhore21&theme=github_dark_dimmed&hide_border=false" alt="Streak stats"/>
     </td>
   </tr>
 </table>
-
----
-
-## 🏆 Contribution Highlights
-
-<div align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=Smiteshbhore21&limit=3&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos"/>
-</div>
 
 ---
 
